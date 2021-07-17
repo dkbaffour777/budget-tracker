@@ -4,7 +4,7 @@
 
    A budget tracking web application that allow for offline access and functionality. Users can add expenses and deposits to their budget with or without an internet connection. Some of the main tools/packages utilized in this project are Node.js, express, mongoDB,and  mongoose.
 
-  Deployed link - 
+  Deployed link - https://dkbaffour777-budget-tracker.herokuapp.com/
 
 !['app'](assets/images/app.PNG)
   
